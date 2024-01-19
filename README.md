@@ -13,4 +13,10 @@ Source code is obfuscated to make it more difficult for Performance Matters to p
 
 * Then paste the code you copied in the console, then press enter. Voila! The hack has been activated!
 
+You can press the following keys (they work like Ctrl commands; you MUST hold each preceding key in combination with the next one):
+* "[", "]", "\": This disables the hack. You can do it again to re-enable it.
+* "'", ";", ".", ",": This shows any errors that may have happened in the program. This can be useful if you want to report an issue about the program here on the GitHub repository.
+* ",", ".", ";": This gives you the answers in a dirtier format (popup box), but is more reliable and less prone to error (the default way the program does this is it puts a check mark or an X in the question selection box).
+
+
 Alternatively, you can install this as a script in Tampermonkey.
